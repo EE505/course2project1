@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-&%=aswr8t4d&-1p78t^#031e5%@ax9e2cz3+ekioy#^u#j!^pr'
+SECRET_KEY = 'django-insecure-18la#le-fr(3^o*uu7*65^11w=(vvq7#x_8+42_g0m4_4z)n(q'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -79,7 +79,6 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
-
 
 
 # Password validation
